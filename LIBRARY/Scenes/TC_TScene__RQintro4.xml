@@ -1,0 +1,125 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro4" itemID="5b956f1d-00000b14" lastModified="1536519965">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQintro4">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive" name="Sbees" centerPoint3DX="-90.95" centerPoint3DY="137.45">
+                  <matrix>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-91.1" ty="137.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.15" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_gh_theflowerswill" fontRenderingMode="standard" left="-389.25" width="1828.45" height="58.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-524.95" ty="-483.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The flowers will produce seeds then die by the end of the season. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseBack" name="SgreenHouseBack" centerPoint3DX="-39.1" centerPoint3DY="100.2">
+                  <matrix>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-39.1" ty="45.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="23.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/PlantingBox" centerPoint3DX="11.35" centerPoint3DY="299.3">
+                  <matrix>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="11.3" ty="299.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/Dirt" centerPoint3DX="6.95" centerPoint3DY="299.3">
+                  <matrix>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="6.9" ty="299.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/WateringCan" centerPoint3DX="227.5" centerPoint3DY="140.75">
+                  <matrix>
+                    <Matrix a="0.76385498046875" d="0.76385498046875" tx="227.45" ty="140.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/WonderGrowFertilizer" centerPoint3DX="305.05" centerPoint3DY="207.3">
+                  <matrix>
+                    <Matrix a="0.550872802734375" d="0.550872802734375" tx="305" ty="207.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/DyingSunflowers/DyingSunflowers2">
+                  <matrix>
+                    <Matrix a="2.47247314453125" d="2.47247314453125" tx="4.25" ty="252.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseFront" name="SgreenHouseFront" centerPoint3DX="-42.4" centerPoint3DY="47.4">
+                  <matrix>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-42.45" ty="47.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CGlass Assets/CDO_GlassNormal" name="SglassTinted" centerPoint3DX="-38.4" centerPoint3DY="47.85">
+                  <matrix>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-38.55" ty="47.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/CCalendarNewBlank" centerPoint3DX="490.35" centerPoint3DY="367.6">
+                  <matrix>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="490.35" ty="367.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/SeptemberHeaderText">
+                  <matrix>
+                    <Matrix a="2.29222106933594" d="2.29222106933594" tx="490.3" ty="280.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/allxs">
+                  <matrix>
+                    <Matrix a="2.137451171875" d="2.137451171875" tx="486" ty="384.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

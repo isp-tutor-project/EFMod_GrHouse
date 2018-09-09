@@ -1,0 +1,81 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CCalendarTime Assets/MayHeaderText" itemID="5ac25956-00000a13" lastModified="1522686294" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="MayHeaderText">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D72A2B"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#666666"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-1021 202|-1021 -222!-1021 -222[-1021 -262 -981 -262!-981 -262|981 -262!981 -262[1021 -262 1021 -222!1021 -222|1021 202"/>
+                    <Edge fillStyle1="2" edges="!-202 256[-177 250 -156 260!-156 260[-151 260 -146 261!-146 261[-142.375 #105.E8 -138.5 262!-138.5 262|-217 262!-217 262[-210 258 -202 256!-379 251[-358 247 -349 253!-349 253|-341 259!-341 259[-338 261 -334 262!-334 262|-407 262!-407
+ 262[-398 256 -379 251"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!1021 202[1020 239 981 239!981 239|-981 239!-981 239[-1020 239 -1021 202"/>
+                    <Edge strokeStyle="1" edges="
+!-1021 262|-1021 202!1021 202|1021 262"/>
+                    <Edge fillStyle1="2" edges="
+!92 253[412 242 678 255!678 255[685 246 697 249!697 249[706 250 712 257!712 257[743 259 774 261!774 261[779 261 784 262!784 262|37 262!37 262[56 255 92 253"/>
+                    <Edge cubics="!-1021 -222(;-1021,-249 -1008,-262 -981,-262q-1021 -222Q-1021 -262q-981 -262);"/>
+                    <Edge cubics="!981 -262(;1008,-262 1021,-249 1021,-222q981 -262Q1021 -262q1021 -222);"/>
+                    <Edge cubics="!-981 -262(;-981,-262 981,-262 981,-262q-981 -262 981 -262);"/>
+                    <Edge cubics="!1021 202(;1020,227 1007,239 981,239q1021 202Q1020 239q981 239);"/>
+                    <Edge cubics="!-981 239(;-1007,239 -1020,227 -1021,202q-981 239Q-1020 239q-1021 202);"/>
+                    <Edge cubics="!981 239(;981,239 -981,239 -981,239q981 239 -981 239);"/>
+                    <Edge cubics="!-1021 202(;-1021,202 -1021,-222 -1021,-222q-1021 202 -1021 -222);"/>
+                    <Edge cubics="!1021 -222(;1021,-222 1021,202 1021,202q1021 -222 1021 202);"/>
+                    <Edge cubics="!-379 251(;-369,249 -358,247 -349,253q-379 251Q-358 247q-349 253);"/>
+                    <Edge cubics="!-349 253(;-346,255 -344,258 -341,259q-349 253 -341 259);"/>
+                    <Edge cubics="!-156 260(;-153,260 -149,260 -146,261q-156 260Q-151 260q-146 261);"/>
+                    <Edge cubics="!-202 256(;-185,252 -170,253 -156,260q-202 256Q-177 250q-156 260);"/>
+                    <Edge cubics="!678 255(;683,249 689,247 697,249q678 255Q685 246q697 249);"/>
+                    <Edge cubics="!697 249(;703,250 708,252 712,257q697 249Q706 250q712 257);"/>
+                    <Edge cubics="!712 257(;733,258 753,260 774,261q712 257Q743 259q774 261);"/>
+                    <Edge cubics="!92 253(;305,246 501,246 678,255q92 253Q412 242q678 255);"/>
+                    <Edge cubics="!1021 202(;1021,202 1021,262 1021,262q1021 202 1021 262);"/>
+                    <Edge cubics="!774 261(;777,261 781,261 784,262q774 261Q779 261q784 262);"/>
+                    <Edge cubics="!37 262(;50,257 68,254 92,253q37 262Q56 255q92 253);"/>
+                    <Edge cubics="!37 262(;37,262 784,262 784,262q37 262 784 262);"/>
+                    <Edge cubics="!-217 262(;-212,259 -207,257 -202,256q-217 262Q-210 258q-202 256);"/>
+                    <Edge cubics="!-341 259(;-339,260 -337,261 -334,262q-341 259Q-338 261q-334 262);"/>
+                    <Edge cubics="!-407 262(;-401,258 -392,254 -379,251q-407 262Q-398 256q-379 251);"/>
+                    <Edge cubics="!-407 262(;-407,262 -334,262 -334,262q-407 262 -334 262);"/>
+                    <Edge cubics="!-1021 262(;-1021,262 -1021,202 -1021,202q-1021 262 -1021 202);"/>
+                    <Edge cubics="!-146 261(;-143,262 -141,262 -138,262q-146 261Q-142 262q-138 262);"/>
+                    <Edge cubics="!-138 262(;-138,262 -217,262 -217,262q-138 262 -217 262);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Maytext" selected="true">
+                  <matrix>
+                    <Matrix tx="1" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

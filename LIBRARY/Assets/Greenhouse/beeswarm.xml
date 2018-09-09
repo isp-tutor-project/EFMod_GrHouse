@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/beeswarm" itemID="5addf536-0000042b" lastModified="1524495670" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="beeswarm">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/SwarmSolid" selected="true" centerPoint3DX="0.05" centerPoint3DY="0.05">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="-0.05" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

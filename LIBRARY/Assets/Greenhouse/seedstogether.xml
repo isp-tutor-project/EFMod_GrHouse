@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/seedstogether" itemID="5afdbf14-00000be5" lastModified="1519920973">
+  <timeline>
+    <DOMTimeline name="seedstogether">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/singleseed" selected="true">
+                  <matrix>
+                    <Matrix a="0.449432373046875" d="0.41741943359375" tx="1" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/singleseed" selected="true">
+                  <matrix>
+                    <Matrix a="0.449432373046875" d="0.41741943359375" tx="3" ty="-2.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/singleseed" selected="true">
+                  <matrix>
+                    <Matrix a="0.449432373046875" d="0.41741943359375" tx="-1" ty="-2.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/singleseed" selected="true">
+                  <matrix>
+                    <Matrix a="0.449432373046875" d="0.41741943359375" tx="-3" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/singleseed" selected="true">
+                  <matrix>
+                    <Matrix a="0.449432373046875" d="0.41741943359375" tx="1" ty="1.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/singleseed" selected="true">
+                  <matrix>
+                    <Matrix a="0.449432373046875" d="0.41741943359375" tx="-0.5" ty="2.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

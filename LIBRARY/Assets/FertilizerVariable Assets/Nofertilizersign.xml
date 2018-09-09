@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/FertilizerVariable Assets/Nofertilizersign" itemID="5abd2dbf-0000056e" lastModified="1522347455">
+  <timeline>
+    <DOMTimeline name="Nofertilizersign">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="9.9">
+                        <fill>
+                          <SolidColor color="#990000"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-808 -743S4[-792 -761 -775 -776!-775 -776[-454 -1097 1 -1097!1 -1097[456 -1097 777 -776!777 -776[1098 -455 1098 0!1098 0[1098 455 777 776!777 776[715 839 647 889!647 889[367 1098 1 1098!1 1098[-454 1098 -775 776!-775 776[-1097 455 -1097
+ 0!-1097 0[-1097 -432 -808 -743!-808 -743|647 889"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

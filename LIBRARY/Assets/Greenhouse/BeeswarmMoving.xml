@@ -1,0 +1,136 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/BeeswarmMoving" itemID="5addf59d-00000435" lastModified="1524495773">
+  <timeline>
+    <DOMTimeline name="BeeswarmMoving">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="-18.3" centerPoint3DY="-2.2">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="-18.3" ty="-2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="-65.75" centerPoint3DY="-13.55">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="-65.8" ty="-13.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="-55" centerPoint3DY="18.2">
+                  <matrix>
+                    <Matrix a="-0.9300537109375" d="0.932373046875" tx="-55" ty="18.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="16.05" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="-0.9300537109375" d="0.932373046875" tx="16" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="47.7" centerPoint3DY="6.25">
+                  <matrix>
+                    <Matrix a="-0.9300537109375" d="0.932373046875" tx="47.7" ty="6.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="-60.35" centerPoint3DY="33.85">
+                  <matrix>
+                    <Matrix a="-0.9300537109375" d="0.932373046875" tx="-60.4" ty="33.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="11.05" centerPoint3DY="-33.75">
+                  <matrix>
+                    <Matrix a="-0.9300537109375" d="0.932373046875" tx="11.05" ty="-33.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="11.15" centerPoint3DY="-11.55">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="11.15" ty="-11.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="28.8" centerPoint3DY="37.2">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="28.8" ty="37.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="46.25" centerPoint3DY="-28.75">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="46.25" ty="-28.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="65.85" centerPoint3DY="-46.95">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="65.8" ty="-46.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="-38" centerPoint3DY="37.25">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="-38.05" ty="37.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="54.2" centerPoint3DY="30.5">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="54.2" ty="30.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="47.75" centerPoint3DY="37.25">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="47.7" ty="37.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeSolid" selected="true" centerPoint3DX="-38" centerPoint3DY="46.95">
+                  <matrix>
+                    <Matrix a="0.9300537109375" d="0.932373046875" tx="-38.05" ty="46.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-157.45" y="37.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

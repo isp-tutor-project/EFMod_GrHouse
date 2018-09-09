@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/AmountofWater Assets/RainWaterAssets/raindrop" itemID="5aa2d9ac-00000096" lastModified="1520621996">
+  <timeline>
+    <DOMTimeline name="raindrop">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#3399FF" alpha="0.4"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-78 84S6|-78 83!-78 83[-80 73 -80 54!-80 54[-79 23 -26 -75!-26 -75[27 -174 35 -127!35 -127[42 -79 62 -15!62 -15[77 31 80 62"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!80 62S7[80 74 79 84!79 84[74 118 51 125!51 125[27 133 -4 133!-4 133[-35 133 -54 118!-54 118[-63 111 -67 105!-67 105[-72 96 -76 91!-76 91[-77.8125 #59.3 -78 84"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!80 62S6[82 80 80 94!80 94[75 128 52 135!52 135[28 143 -3 143!-3 143[-34 143 -53 128!-53 128[-62 121 -66 115!-66 115[-71 106 -75 101!-75 101[#FFFFB2.1E #61.29 -78 84"/>
+                    <Edge cubics="!-53 128(;-59,124 -63,119 -66,115q-53 128Q-62 121q-66 115);"/>
+                    <Edge cubics="!-3 143(;-24,143 -40,138 -53,128q-3 143Q-34 143q-53 128);"/>
+                    <Edge cubics="!-66 115(;-69,109 -72,105 -75,101q-66 115Q-71 106q-75 101);"/>
+                    <Edge cubics="!52 135(;36,141 18,143 -3,143q52 135Q28 143q-3 143);"/>
+                    <Edge cubics="!80 94(;76,116 67,130 52,135q80 94Q75 128q52 135);"/>
+                    <Edge cubics="!-80 54(;-79,33 -61,-10 -26,-75q-80 54Q-79 23q-26 -75);"/>
+                    <Edge cubics="!-54 118(;-60,114 -64,109 -67,105q-54 118Q-63 111q-67 105);"/>
+                    <Edge cubics="!-4 133(;-25,133 -41,128 -54,118q-4 133Q-35 133q-54 118);"/>
+                    <Edge cubics="!-67 105(;-70,99 -73,95 -76,91q-67 105Q-72 96q-76 91);"/>
+                    <Edge cubics="!51 125(;35,131 17,133 -4,133q51 125Q27 133q-4 133);"/>
+                    <Edge cubics="!-26 -75(;10,-141 30,-158 35,-127q-26 -75Q27 -174q35 -127);"/>
+                    <Edge cubics="!79 84(;75,106 66,120 51,125q79 84Q74 118q51 125);"/>
+                    <Edge cubics="!35 -127(;39,-96 49,-58 62,-15q35 -127Q42 -79q62 -15);"/>
+                    <Edge cubics="!80 62(;80,70 80,77 79,84q80 62Q80 74q79 84);"/>
+                    <Edge cubics="!62 -15(;72,16 78,41 80,62q62 -15Q77 31q80 62);"/>
+                    <Edge cubics="!80 62(;81,74 81,85 80,94q80 62Q82 80q80 94);"/>
+                    <Edge cubics="!-78 83(;-79,76 -80,67 -80,54q-78 83Q-80 73q-80 54);"/>
+                    <Edge cubics="!-78 84(;-78,84 -78,83 -78,83q-78 84 -78 83);"/>
+                    <Edge cubics="!-75 101(;-77,98 -78,93 -78,84q-75 101Q-78 97q-78 84);"/>
+                    <Edge cubics="!-76 91(;-77,90 -78,87 -78,84q-76 91Q-78 89q-78 84);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

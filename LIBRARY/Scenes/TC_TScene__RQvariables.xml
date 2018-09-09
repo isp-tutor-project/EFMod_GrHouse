@@ -1,0 +1,113 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQvariables" itemID="5b956f09-00000b10" lastModified="1536519945">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQvariables">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="S_gh_varintro" fontRenderingMode="standard" left="-389.25" width="1828.45" height="217.6" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-524.95" ty="-305.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Below are some variables that might affect the number of seeds produced by flowers in a greenhouse. You can test one of these variables in your experiment. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="71.2" size="55" bitmapSize="1100" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_gh_var_honeybeesnumber" fontRenderingMode="standard" left="-365.2" width="874.4" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="17.75" ty="-37.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Number of honey bees in the greenhouse</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_gh_var_sunlightamount" fontRenderingMode="standard" left="-375.85" width="895.7" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="21.85" ty="53.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Amount of sunlight the greenhouse lets in</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_gh_var_fertilizeramount" fontRenderingMode="standard" left="-163.75" width="471.5" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-192.25" ty="145.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Amount of Fertilizer</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_gh_var_watertype" selected="true" fontRenderingMode="standard" left="-105.65" width="355.3" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-252.55" ty="237.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>The Type of Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_honeybees">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.55" ty="-8.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_sunlightamount">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.55" ty="80.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_fertilizer">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.55" ty="172.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_watertype">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.65" ty="264.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

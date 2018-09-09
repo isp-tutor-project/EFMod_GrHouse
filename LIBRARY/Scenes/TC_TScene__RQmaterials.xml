@@ -1,0 +1,206 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQmaterials" itemID="5b956f00-00000b0f" lastModified="1536519936">
+  <timeline>
+    <DOMTimeline name="TC_TScene__RQmaterials">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/CRainwater">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="547.85" ty="170"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/TapWaterAssets/TapWaterGarden">
+                  <matrix>
+                    <Matrix tx="688.1" ty="255.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CombinedGreenhouseFrame">
+                  <matrix>
+                    <Matrix a="1.3499755859375" d="1.3499755859375" tx="-489.55" ty="-195.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/CPlantingBedNoFlowers">
+                  <matrix>
+                    <Matrix a="1.3499755859375" d="1.3499755859375" tx="-444.6" ty="-61.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/Box" centerPoint3DX="-598.7" centerPoint3DY="358.35">
+                  <matrix>
+                    <Matrix a="3.0625" d="3.0625" tx="-598.75" ty="358.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/BeeHive" centerPoint3DX="-601.8" centerPoint3DY="281.8">
+                  <matrix>
+                    <Matrix a="3.0625" d="3.0625" tx="-601.8" ty="281.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive Assets/SwarmSolid" centerPoint3DX="-590.8" centerPoint3DY="224.75">
+                  <matrix>
+                    <Matrix a="3.422119140625" d="3.422119140625" tx="-591.15" ty="224.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/WonderGrowFertilizer">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="25.3" ty="227.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers">
+                  <matrix>
+                    <Matrix a="3.0625" d="3.0625" tx="389.35" ty="-285.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.15" y="5.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="S_gh_var_herearematerials" fontRenderingMode="standard" left="-837.05" width="1830" height="64.7" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-503.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Here are all of the materials that may be necessary for this experiment. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="64.7" size="50" bitmapSize="1000" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_greenhouse" fontRenderingMode="standard" left="-61.35" width="266.7" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-380.7" ty="-5.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A Greenhouse</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_12sunflower" fontRenderingMode="standard" left="-122.2" width="388.4" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="475.4" ty="-169.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>12 Sunflower plants</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_beehive" fontRenderingMode="standard" top="-11.1" left="-77.65" width="302.3" height="116.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-670.75" ty="385.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A Beehive with &#xD;bees</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineSpacing="0" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_fertilizer" fontRenderingMode="standard" left="-14.95" width="173.9" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-59.8" ty="399.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Fertilizer</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="S_water" selected="true" fontRenderingMode="standard" left="14.2" width="115.6" height="58.2" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="615.5" ty="418.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Water</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" lineHeight="58.2" size="45" bitmapSize="900" face="PTSans-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="material_greenhouse">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-856.45" ty="-192.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="material_sunflowers">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="96.9" ty="-192.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="materials_beehivebees">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-741.25" ty="310.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="material_fertilizer">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-155.15" ty="246.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="material_water">
+                  <matrix>
+                    <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="390" ty="209.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-3.5" y="0.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CCalendarTime Assets/Calendarx's/multiplex" itemID="5afdbf14-00000810" lastModified="1528749741">
+  <timeline>
+    <DOMTimeline name="multiplex">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/tuesx" centerPoint3DX="-20.3" centerPoint3DY="6.55">
+                  <matrix>
+                    <Matrix tx="-20.3" ty="6.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/tuesx" centerPoint3DX="-8.15" centerPoint3DY="-5.3">
+                  <matrix>
+                    <Matrix tx="-8.15" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/tuesx" centerPoint3DX="4.6" centerPoint3DY="-5.3">
+                  <matrix>
+                    <Matrix tx="4.6" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/tuesx" centerPoint3DX="17.6" centerPoint3DY="-5.3">
+                  <matrix>
+                    <Matrix tx="17.6" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/tuesx" centerPoint3DX="31.3" centerPoint3DY="-5.3">
+                  <matrix>
+                    <Matrix tx="31.3" ty="-5.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/tuesx" centerPoint3DX="-31.3" centerPoint3DY="6.55">
+                  <matrix>
+                    <Matrix tx="-31.3" ty="6.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

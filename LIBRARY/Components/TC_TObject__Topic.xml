@@ -1,0 +1,88 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Topic" itemID="5b956f39-00000b18" lastModified="1536519993">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Topic">
+      <layers>
+        <DOMLayer name="SgreenHouseFront" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseFront" name="SgreenHouseFront" centerPoint3DX="520.9" centerPoint3DY="354.2">
+                  <matrix>
+                    <Matrix a="2.25" d="2.25" tx="520.9" ty="354.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SglassTinted" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CGlass Assets/CDO_GlassNormal" name="SglassTinted" centerPoint3DX="524.55" centerPoint3DY="354.15">
+                  <matrix>
+                    <Matrix a="2.25" d="2.25" tx="524.45" ty="354.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.05" y="0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Sbees" color="#FF0000" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive" name="Sbees" centerPoint3DX="515.3" centerPoint3DY="409.9">
+                  <matrix>
+                    <Matrix a="2.25" d="2.25" tx="515.25" ty="409.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SplantingBed" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed" name="SplantingBed" centerPoint3DX="572.4" centerPoint3DY="546.05">
+                  <matrix>
+                    <Matrix a="2.25" d="2.25" tx="572.35" ty="546"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SgreenHouseBack" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseBack" name="SgreenHouseBack" centerPoint3DX="523.6" centerPoint3DY="406.1">
+                  <matrix>
+                    <Matrix a="2.25" d="2.25" tx="523.65" ty="353.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.2" y="23.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
