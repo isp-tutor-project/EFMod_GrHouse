@@ -6,8 +6,9 @@
           <DOMFolderItem name="_HTMLControls/TC_THtmlList__Assets" itemID="5b5cea4b-000003ab"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlTable__Assets" itemID="5b5f40d8-000002e3"/>
           <DOMFolderItem name="_HTMLControls/TC_THtmlText__Assets" itemID="5b5cd7c7-000002d7"/>
-          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
-          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
+          <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9" isExpanded="true"/>
+          <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
           <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
           <DOMFolderItem name="Assets/AmountofWater Assets" itemID="5abd27f4-000003a0"/>
           <DOMFolderItem name="Assets/AmountofWater Assets/RainWaterAssets" itemID="5ac25b8f-00000b02"/>
@@ -44,6 +45,9 @@
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playButtonTop.xml" loadImmediate="false" itemID="5b9e99fb-00000b68" lastModified="1537120902"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playup.xml" loadImmediate="false" itemID="5b9e98ab-00000b30" lastModified="1537120908"/>
+          <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__PlayButton.xml" itemIcon="0" loadImmediate="false" itemID="5b9e9aaa-00000b83" lastModified="1537121856"/>
           <Include href="_Tutor Global Assets_/SceneRegion.xml" loadImmediate="false" itemID="5ad4e5af-00000a3e" lastModified="1536514559"/>
           <Include href="_Tutor Global Assets_/TC_TVirtual__SceneRgn.xml" loadImmediate="false" itemID="5b7745af-0000037b" lastModified="1536518598"/>
           <Include href="_Tutor Global Assets_/TutorModule.xml" loadImmediate="false" itemID="5ad39eb8-000002c4" lastModified="1523818168"/>
@@ -83,7 +87,7 @@
           <Include href="Assets/CGreenHouse Assets/GreenHouseBack.xml" loadImmediate="false" itemID="5afdbf16-00000df5" lastModified="1511893329"/>
           <Include href="Assets/CGreenHouse Assets/GreenHouseFront.xml" loadImmediate="false" itemID="5afdbf14-00000b4b" lastModified="1511893325"/>
           <Include href="Assets/CGreenHouse Assets/singleseed.xml" loadImmediate="false" itemID="5a09c131-00000013" lastModified="1510588721"/>
-          <Include href="Assets/common/Bluearrow.xml" loadImmediate="false" itemID="5af59db1-000003d2" lastModified="1526046287"/>
+          <Include href="Assets/common/TC_TObject__arrow.xml" loadImmediate="false" itemID="5b9d7cbb-000025ae" lastModified="1537047739"/>
           <Include href="Assets/DyingSunflowers/dyingleaf.xml" loadImmediate="false" itemID="5afdbf16-00000de7" lastModified="1513279609"/>
           <Include href="Assets/DyingSunflowers/DyingSunflowers2.xml" loadImmediate="false" itemID="5afda498-0000059a" lastModified="1526572184"/>
           <Include href="Assets/DyingSunflowers/Stage1DyingSunflowerTint.xml" loadImmediate="false" itemID="5a32d618-000009d1" lastModified="1513281048"/>
@@ -127,9 +131,9 @@
           <Include href="Assets/Harvestassests/HandCounting.xml" loadImmediate="false" itemID="5afdbf14-00000b65" lastModified="1513268082"/>
           <Include href="Assets/RakeAssets/Rake.xml" loadImmediate="false" itemID="5a342229-0000009f" lastModified="1513366057"/>
           <Include href="Assets/RakeAssets/rakeindirt.xml" loadImmediate="false" itemID="5a342587-000000b1" lastModified="1513366919"/>
-          <Include href="Components/TC_TObject__Movie.xml" loadImmediate="false" itemID="5b956f2c-00000b16" lastModified="1536519980"/>
-          <Include href="Components/TC_TObject__Topic.xml" loadImmediate="false" itemID="5b956f39-00000b18" lastModified="1536519993"/>
-          <Include href="Components/TC_TObject__Vars.xml" loadImmediate="false" itemID="5b956f34-00000b17" lastModified="1536519988"/>
+          <Include href="Components/TC_TObject__Movie.xml" itemID="5b956f2c-00000b16" lastModified="1537036589"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956f39-00000b18" lastModified="1537036591"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956f34-00000b17" lastModified="1537036596"/>
           <Include href="Exports/TL_GrHouse__Movie.xml" loadImmediate="false" itemID="5b956f40-00000b19" lastModified="1536520000"/>
           <Include href="Exports/TL_GrHouse__RQintro1.xml" loadImmediate="false" itemID="5b95875e-00000f3f" lastModified="1536526174"/>
           <Include href="Exports/TL_GrHouse__RQintro2.xml" loadImmediate="false" itemID="5b958772-00000f48" lastModified="1536526194"/>
@@ -141,18 +145,19 @@
           <Include href="Exports/TL_GrHouse__RQvariables.xml" loadImmediate="false" itemID="5b95876b-00000f42" lastModified="1536526187"/>
           <Include href="Exports/TL_GrHouse__Topic.xml" loadImmediate="false" itemID="5b956f49-00000b1b" lastModified="1536520009"/>
           <Include href="Exports/TL_GrHouse__Vars.xml" loadImmediate="false" itemID="5b956f44-00000b1a" lastModified="1536520004"/>
-          <Include href="Scenes/TC_TScene__RQintro1.xml" loadImmediate="false" itemID="5b956f12-00000b11" lastModified="1536519954"/>
-          <Include href="Scenes/TC_TScene__RQintro2.xml" loadImmediate="false" itemID="5b956f16-00000b12" lastModified="1536519958"/>
-          <Include href="Scenes/TC_TScene__RQintro3.xml" loadImmediate="false" itemID="5b956f19-00000b13" lastModified="1536519961"/>
-          <Include href="Scenes/TC_TScene__RQintro4.xml" loadImmediate="false" itemID="5b956f1d-00000b14" lastModified="1536519965"/>
-          <Include href="Scenes/TC_TScene__RQintro5.xml" loadImmediate="false" itemID="5b956f22-00000b15" lastModified="1536519970"/>
-          <Include href="Scenes/TC_TScene__RQmaterials.xml" loadImmediate="false" itemID="5b956f00-00000b0f" lastModified="1536519936"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" loadImmediate="false" itemID="5b958540-00000de3" lastModified="1536525670"/>
+          <Include href="Scenes/TC_TScene__RQenumVars.xml" itemID="5b9e965a-000008be" lastModified="1537121665"/>
+          <Include href="Scenes/TC_TScene__RQintro1.xml" itemID="5b956f12-00000b11" lastModified="1537036599"/>
+          <Include href="Scenes/TC_TScene__RQintro2.xml" itemID="5b956f16-00000b12" lastModified="1537036601"/>
+          <Include href="Scenes/TC_TScene__RQintro3.xml" itemID="5b956f19-00000b13" lastModified="1537036604"/>
+          <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5b956f1d-00000b14" lastModified="1537036608"/>
+          <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5b956f22-00000b15" lastModified="1537036612"/>
+          <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956f00-00000b0f" lastModified="1537047765"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958540-00000de3" lastModified="1537124866"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956f09-00000b10" lastModified="1536519945"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>
-          <DOMTimeline name="Scene 1" currentFrame="8">
+          <DOMTimeline name="Scene 1" currentFrame="9">
                <layers>
                     <DOMLayer name="Actions" color="#00FFFF" locked="true" autoNamed="false" visible="false">
                          <frames>
@@ -204,28 +209,10 @@
                                    <elements/>
                               </DOMFrame>
                               <DOMFrame index="8" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Topic" selected="true" cacheAsBitmap="true">
-                                             <matrix>
-                                                  <Matrix tx="-255.45" ty="184.85"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="524.15" y="354.05"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                               <DOMFrame index="9" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="Components/TC_TObject__Vars">
-                                             <matrix>
-                                                  <Matrix tx="-33.85" ty="380.45"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point x="274.8" y="213.75"/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
+                                   <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>

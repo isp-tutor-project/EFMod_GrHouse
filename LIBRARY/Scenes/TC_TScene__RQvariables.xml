@@ -71,7 +71,7 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_honeybees">
+                <DOMSymbolInstance libraryItemName="Assets/common/TC_TObject__arrow" name="var_honeybees">
                   <matrix>
                     <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.55" ty="-8.9"/>
                   </matrix>
@@ -79,7 +79,7 @@
                     <Point x="-3.5" y="0.9"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_sunlightamount">
+                <DOMSymbolInstance libraryItemName="Assets/common/TC_TObject__arrow" name="var_sunlightamount">
                   <matrix>
                     <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.55" ty="80.15"/>
                   </matrix>
@@ -87,7 +87,7 @@
                     <Point x="-3.5" y="0.9"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_fertilizer">
+                <DOMSymbolInstance libraryItemName="Assets/common/TC_TObject__arrow" name="var_fertilizer">
                   <matrix>
                     <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.55" ty="172.8"/>
                   </matrix>
@@ -95,7 +95,7 @@
                     <Point x="-3.5" y="0.9"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/common/Bluearrow" name="var_watertype">
+                <DOMSymbolInstance libraryItemName="Assets/common/TC_TObject__arrow" name="var_watertype">
                   <matrix>
                     <Matrix a="-0.202423095703125" b="-0.876922607421875" c="0.876922607421875" d="-0.202423095703125" tx="-433.65" ty="264.85"/>
                   </matrix>
