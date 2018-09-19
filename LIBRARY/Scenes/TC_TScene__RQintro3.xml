@@ -150,7 +150,7 @@
                     <Point x="-0.05" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/WonderGrowFertilizer" centerPoint3DX="305.05" centerPoint3DY="222.1">
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer" centerPoint3DX="305.05" centerPoint3DY="222.1">
                   <matrix>
                     <Matrix a="0.550872802734375" d="0.550872802734375" tx="305" ty="222.05"/>
                   </matrix>

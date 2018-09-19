@@ -14,7 +14,7 @@
                     <Point x="-0.2" y="23.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed" name="SplantingBed" centerPoint3DX="47.95" centerPoint3DY="192">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" name="SplantingBed" centerPoint3DX="47.95" centerPoint3DY="192">
                   <matrix>
                     <Matrix a="2.25" d="2.25" tx="47.9" ty="191.95"/>
                   </matrix>
@@ -38,7 +38,7 @@
                     <Point x="-0.1" y="0.15"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/WonderGrowFertilizer" centerPoint3DX="331.65" centerPoint3DY="155.5">
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer" centerPoint3DX="331.65" centerPoint3DY="155.5">
                   <matrix>
                     <Matrix a="0.532257080078125" d="0.532257080078125" tx="331.65" ty="155.5"/>
                   </matrix>

@@ -65,7 +65,7 @@
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/WonderGrowFertilizer">
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer">
                   <matrix>
                     <Matrix a="1.23097229003906" d="1.23097229003906" tx="998.6" ty="789.7"/>
                   </matrix>
@@ -222,7 +222,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn">
                   <transformationPoint>
                     <Point x="960" y="600"/>
                   </transformationPoint>

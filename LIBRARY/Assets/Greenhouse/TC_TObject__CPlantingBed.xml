@@ -1,6 +1,6 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/CPlantingBed" itemID="5a1d9eee-000003c3" lastModified="1526578966" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CPlantingBed" itemID="5ba16880-00001ea9" lastModified="1537304704" lastUniqueIdentifier="8">
   <timeline>
-    <DOMTimeline name="CPlantingBed">
+    <DOMTimeline name="TC_TObject__CPlantingBed">
       <layers>
         <DOMLayer name="SunflowersSparse" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>

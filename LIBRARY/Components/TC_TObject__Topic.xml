@@ -54,7 +54,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed" name="SplantingBed" centerPoint3DX="572.4" centerPoint3DY="546.05">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" name="SplantingBed" centerPoint3DX="572.4" centerPoint3DY="546.05">
                   <matrix>
                     <Matrix a="2.25" d="2.25" tx="572.35" ty="546"/>
                   </matrix>
