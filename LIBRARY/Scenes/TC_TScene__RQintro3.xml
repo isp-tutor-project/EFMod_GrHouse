@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5b956f19-00000b13" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537036604">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Scenes/TC_TScene__RQintro3" itemID="5ba50eab-000003c8" linkageExportForAS="true" linkageClassName="TC_TScene__RQintro3" lastModified="1537543877">
   <timeline>
     <DOMTimeline name="TC_TScene__RQintro3">
       <layers>
@@ -6,209 +6,206 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseBack" name="SgreenHouseBack" centerPoint3DX="-39.1" centerPoint3DY="115">
+                <DOMSymbolInstance libraryItemName="_Tutor Global Assets_/TC_TVirtual__SceneRgn" selected="true" centerPoint3DX="960" centerPoint3DY="600">
+                  <transformationPoint>
+                    <Point x="960" y="600"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseBack" name="SgreenHouseBack" selected="true" centerPoint3DX="921.15" centerPoint3DY="715.15">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-39.1" ty="60.55"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="921.15" ty="660.7"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.2" y="23.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/PlantingBox" centerPoint3DX="11.35" centerPoint3DY="314.1">
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/PlantingBox" selected="true" centerPoint3DX="971.6" centerPoint3DY="914.25">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="11.3" ty="314"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="971.55" ty="914.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/Dirt" centerPoint3DX="6.95" centerPoint3DY="314.1">
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/Dirt" selected="true" centerPoint3DX="967.2" centerPoint3DY="914.25">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="6.9" ty="314"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="967.15" ty="914.15"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers" name="Ssunflowers" centerPoint3DX="1.95" centerPoint3DY="245.35">
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers" name="Ssunflowers" selected="true" centerPoint3DX="962.2" centerPoint3DY="845.5">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="1.6" ty="233.05"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="961.85" ty="833.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="-115.65" centerPoint3DY="248.1">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="844.6" centerPoint3DY="848.25">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-115.75" ty="248.1"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="844.5" ty="848.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="-66.65" centerPoint3DY="229.85">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="893.6" centerPoint3DY="830">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-66.75" ty="229.8"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="893.5" ty="829.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="-9.95" centerPoint3DY="222.8">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="950.3" centerPoint3DY="822.95">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-10" ty="222.65"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="950.25" ty="822.8"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="43.95" centerPoint3DY="222.95">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="1004.2" centerPoint3DY="823.1">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="43.85" ty="222.95"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="1004.1" ty="823.1"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="102.75" centerPoint3DY="215.75">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="1063" centerPoint3DY="815.9">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="102.7" ty="215.7"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="1062.95" ty="815.85"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="139.65" centerPoint3DY="227.85">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="1099.9" centerPoint3DY="828">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="139.6" ty="227.8"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="1099.85" ty="827.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="27.2" centerPoint3DY="242.9">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="987.45" centerPoint3DY="843.05">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="27.1" ty="242.8"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="987.35" ty="842.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="5.5" centerPoint3DY="254.3">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="965.75" centerPoint3DY="854.45">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="5.45" ty="254.2"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="965.7" ty="854.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="-41.75" centerPoint3DY="266.5">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="918.5" centerPoint3DY="866.65">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-41.85" ty="266.45"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="918.4" ty="866.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="85.5" centerPoint3DY="241.95">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="1045.75" centerPoint3DY="842.1">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="85.45" ty="241.9"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="1045.7" ty="842.05"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="-159.4" centerPoint3DY="242.95">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="800.85" centerPoint3DY="843.1">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-159.5" ty="242.8"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="800.75" ty="842.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" centerPoint3DX="-86.7" centerPoint3DY="274.95">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true" centerPoint3DX="873.55" centerPoint3DY="875.1">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-86.75" ty="274.8"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="873.5" ty="874.95"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive" name="Sbees" centerPoint3DX="-90.95" centerPoint3DY="152.25">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CDO_BeeHive" name="Sbees" selected="true" centerPoint3DX="869.3" centerPoint3DY="752.4">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-91.1" ty="152.1"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="869.15" ty="752.25"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.15" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/WateringCan" centerPoint3DX="227.5" centerPoint3DY="155.55">
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/WateringCan" selected="true" centerPoint3DX="1187.75" centerPoint3DY="755.7">
                   <matrix>
-                    <Matrix a="0.76385498046875" d="0.76385498046875" tx="227.45" ty="155.5"/>
+                    <Matrix a="0.76385498046875" d="0.76385498046875" tx="1187.7" ty="755.65"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.05" y="0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer" centerPoint3DX="305.05" centerPoint3DY="222.1">
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer" selected="true" centerPoint3DX="1265.3" centerPoint3DY="822.25">
                   <matrix>
-                    <Matrix a="0.550872802734375" d="0.550872802734375" tx="305" ty="222.05"/>
+                    <Matrix a="0.550872802734375" d="0.550872802734375" tx="1265.25" ty="822.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.1" y="0.35"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Harvestassests/HandCounting" centerPoint3DX="-194.7" centerPoint3DY="264.25">
+                <DOMSymbolInstance libraryItemName="Assets/Harvestassests/HandCounting" selected="true" centerPoint3DX="765.55" centerPoint3DY="864.4">
                   <matrix>
-                    <Matrix a="-0.6260986328125" b="-1.08447265625" c="1.08447265625" d="-0.6260986328125" tx="-194.65" ty="264.3"/>
+                    <Matrix a="-0.6260986328125" b="-1.08447265625" c="1.08447265625" d="-0.6260986328125" tx="765.6" ty="864.45"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="-0.1" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CGlass Assets/CDO_GlassNormal" name="SglassTinted" centerPoint3DX="-43.35" centerPoint3DY="62.6">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CGlass Assets/CDO_GlassNormal" name="SglassTinted" selected="true" centerPoint3DX="916.9" centerPoint3DY="662.75">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-43.5" ty="62.4"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="916.75" ty="662.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.05" y="0.1"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseFront" name="SgreenHouseFront" centerPoint3DX="-42.4" centerPoint3DY="62.2">
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/GreenHouseFront" name="SgreenHouseFront" selected="true" centerPoint3DX="917.85" centerPoint3DY="662.35">
                   <matrix>
-                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="-42.45" ty="62.05"/>
+                    <Matrix a="2.32867431640625" d="2.32867431640625" tx="917.8" ty="662.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/CCalendarNewBlank">
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/CCalendarNewBlank" selected="true">
                   <matrix>
-                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="490.35" ty="382.4"/>
+                    <Matrix a="2.29998779296875" d="2.29998779296875" tx="1450.6" ty="982.55"/>
                   </matrix>
                   <transformationPoint>
                     <Point y="-0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/xsrow">
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/MayHeaderText" selected="true">
                   <matrix>
-                    <Matrix a="2.14999389648438" d="2.14999389648438" tx="516.35" ty="351.55"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/MayHeaderText">
-                  <matrix>
-                    <Matrix a="2.31303405761719" d="2.31303405761719" tx="490.3" ty="294.45"/>
+                    <Matrix a="2.31303405761719" d="2.31303405761719" tx="1450.55" ty="894.6"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="0.1" y="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMDynamicText fontRenderingMode="standard" left="-389.25" width="1828.45" height="106.2" isSelectable="false" lineType="multiline">
+                <DOMDynamicText selected="true" fontRenderingMode="standard" left="-337.25" width="1732.45" height="106.2" isSelectable="false" lineType="multiline">
                   <matrix>
-                    <Matrix tx="-524.95" ty="-498.15"/>
+                    <Matrix tx="435.3" ty="102"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
@@ -219,6 +216,14 @@
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="Assets/CCalendarTime Assets/Calendarx's/xsrow" selected="true">
+                  <matrix>
+                    <Matrix a="2.14999389648438" d="2.14999389648438" tx="1476.6" ty="943.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
               </elements>
             </DOMFrame>
           </frames>
