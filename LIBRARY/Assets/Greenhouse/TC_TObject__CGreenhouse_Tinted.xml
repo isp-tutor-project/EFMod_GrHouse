@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CombinedGreenhouseFrame" selected="true" centerPoint3DX="-0.2" centerPoint3DY="8.6">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CombinedGreenhouseFrame" centerPoint3DX="-0.2" centerPoint3DY="8.6">
                   <matrix>
                     <Matrix tx="-0.2" ty="8.6"/>
                   </matrix>

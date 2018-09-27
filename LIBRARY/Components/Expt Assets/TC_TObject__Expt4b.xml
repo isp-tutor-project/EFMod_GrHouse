@@ -1,0 +1,64 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt4b" itemID="5bac2182-000002b1" lastModified="1538007426">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt4b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/TapWaterAssets/TapWaterGarden" selected="true" centerPoint3DX="70" centerPoint3DY="129.2">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="70" ty="129.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/WateringCan" selected="true" centerPoint3DX="126.55" centerPoint3DY="175.65">
+                  <matrix>
+                    <Matrix a="-0.584518432617188" d="0.584518432617188" tx="126.5" ty="175.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/RainWaterAssets/raindrop" selected="true" centerPoint3DX="104.5" centerPoint3DY="127.1">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="104.5" ty="127.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/RainWaterAssets/raindrop" selected="true" centerPoint3DX="100.5" centerPoint3DY="136.4">
+                  <matrix>
+                    <Matrix a="-0.5" d="0.5" tx="100.45" ty="136.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" selected="true">
+                  <matrix>
+                    <Matrix tx="141.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout4b" name="ScallOut" selected="true">
+                  <matrix>
+                    <Matrix tx="76.6" ty="3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.55" y="22.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

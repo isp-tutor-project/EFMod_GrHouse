@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f34-00000b17" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537725943">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f34-00000b17" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1537895141" lastUniqueIdentifier="8">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1a" color="#FF4FFF" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1a" color="#FF4FFF" current="true" isSelected="true" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix tx="274.85" ty="272.25"/>
                   </matrix>
@@ -69,7 +69,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -85,7 +85,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3b" color="#FF800A" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#FF800A" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

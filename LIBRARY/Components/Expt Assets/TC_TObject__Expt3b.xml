@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt3b" itemID="5baa748a-00000483" lastModified="1537897610" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="TC_TObject__Expt3b">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer" name="Svar3b" selected="true" centerPoint3DX="46.25" centerPoint3DY="60.85">
+                  <matrix>
+                    <Matrix a="0.593353271484375" d="0.593353271484375" tx="46.2" ty="60.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                  <matrix>
+                    <Matrix tx="153.7" ty="57.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.5" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout3b" name="ScallOut" selected="true">
+                  <matrix>
+                    <Matrix tx="92.4" ty="58.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="85.65" y="22.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
