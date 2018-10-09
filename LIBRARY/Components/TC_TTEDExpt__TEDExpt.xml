@@ -1,0 +1,356 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb90ed-00002ebe" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539021048">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
+  <timeline>
+    <DOMTimeline name="TC_TTEDExpt__TEDExpt">
+      <layers>
+        <DOMLayer name="Svar3b" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
+                  <matrix>
+                    <Matrix tx="797.8" ty="393.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140.6" y="60.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4b" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
+                  <matrix>
+                    <Matrix tx="280.95" ty="198.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="134.5" y="112.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar4a" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" name="Svar4a" labelType="name" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a">
+                  <matrix>
+                    <Matrix tx="312.15" ty="192.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="167" y="115.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar3a" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3a" name="Svar3a">
+                  <matrix>
+                    <Matrix tx="769.25" ty="386"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="171.05" y="72.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2a" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2a" name="Svar2a">
+                  <matrix>
+                    <Matrix tx="431" ty="171.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="322.5" y="157.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2b" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt2b" name="Svar2b">
+                  <matrix>
+                    <Matrix tx="432.25" ty="155.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="323.75" y="163.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1b" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b">
+                  <matrix>
+                    <Matrix tx="357.55" ty="174.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.9" y="167.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar1a" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a">
+                  <matrix>
+                    <Matrix tx="248.55" ty="174.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="323.4" y="154.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stag1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight1" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="10" ty="-15.45"/>
+                  </matrix>
+                  <members>
+                    <DOMGroup>
+                      <matrix>
+                        <Matrix tx="10" ty="-15.45"/>
+                      </matrix>
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight1" selected="true">
+                          <matrix>
+                            <Matrix tx="10" ty="80"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="63.7" y="25.1"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag1">
+                      <matrix>
+                        <Matrix a="2.10000610351563" tx="10" ty="80"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="50" y="50"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stag2" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight2" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="10" ty="-15.45"/>
+                  </matrix>
+                  <members>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="10" ty="-15.45"/>
+                      </matrix>
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight2" selected="true">
+                          <matrix>
+                            <Matrix tx="10" ty="211.8"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="63.7" y="25.1"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag2" selected="true">
+                      <matrix>
+                        <Matrix a="2.10000610351563" tx="10" ty="211.8"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="50" y="50"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stag3" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight3" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="10" ty="-15.45"/>
+                  </matrix>
+                  <members>
+                    <DOMGroup selected="true">
+                      <matrix>
+                        <Matrix tx="10" ty="-15.45"/>
+                      </matrix>
+                      <members>
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight3" selected="true">
+                          <matrix>
+                            <Matrix tx="10" ty="343.6"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="63.7" y="25.1"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag3" selected="true">
+                      <matrix>
+                        <Matrix a="2.10000610351563" tx="10" ty="343.6"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="50" y="50"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Stag4" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Shighlight4" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight4">
+                  <matrix>
+                    <Matrix tx="10" ty="475.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="63.7" y="25.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag4">
+                  <matrix>
+                    <Matrix a="2.10000610351563" tx="10" ty="475.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="50" y="50"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer_3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Region" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TC_TVirtual__ExptRgn" selected="true">
+                  <matrix>
+                    <Matrix tx="-1" ty="-0.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="474.95" y="329.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

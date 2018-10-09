@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt2a" itemID="5baa71a1-00000410" lastModified="1537896865">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt2a" itemID="5baa71a1-00000410" lastModified="1538927004">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt2a">
       <layers>
@@ -6,23 +6,29 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
                   <matrix>
                     <Matrix tx="511.5" ty="133.3"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_Tobject__Callout2a" name="ScallOut" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout2a" name="ScallOut">
                   <matrix>
                     <Matrix tx="441.05" ty="134.75"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="101.2" y="22.4"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_FullSunlight" name="Svar2a" selected="true" centerPoint3DX="233.1" centerPoint3DY="157.35">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_FullSunlight" name="Svar2a" centerPoint3DX="233.1" centerPoint3DY="157.35">
                   <matrix>
                     <Matrix tx="233.1" ty="157.35"/>
                   </matrix>

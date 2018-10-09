@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1b" itemID="5baa6e9e-0000038a" lastModified="1537896201">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/Expt Assets/TC_TObject__Expt1b" itemID="5baa6e9e-0000038a" lastModified="1538926937">
   <timeline>
     <DOMTimeline name="TC_TObject__Expt1b">
       <layers>
@@ -14,13 +14,16 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Highlight" name="Shighlight">
                   <matrix>
                     <Matrix ty="283.2"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="63.5" y="25"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Callout1b">
                   <matrix>
@@ -29,6 +32,9 @@
                   <transformationPoint>
                     <Point x="95.35" y="26.6"/>
                   </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
