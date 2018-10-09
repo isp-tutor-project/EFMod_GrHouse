@@ -1,33 +1,17 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb90ed-00002ebe" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539021048">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TTEDExpt__TEDExpt" itemID="5bbb90ed-00002ebe" linkageExportForAS="true" linkageClassName="TC_TTEDExpt__TEDExpt" lastModified="1539115199">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TTEDExpt__TEDExpt">
       <layers>
-        <DOMLayer name="Svar3b" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
-          <frames>
-            <DOMFrame index="0" keyMode="9728">
-              <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
-                  <matrix>
-                    <Matrix tx="797.8" ty="393.95"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point x="140.6" y="60.8"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-          </frames>
-        </DOMLayer>
-        <DOMLayer name="Svar4b" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Svar4b" color="#FF4FFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4b" name="Svar4b">
                   <matrix>
-                    <Matrix tx="280.95" ty="198.85"/>
+                    <Matrix tx="305.8" ty="320.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="134.5" y="112.25"/>
@@ -37,13 +21,13 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#009999" autoNamed="false">
+        <DOMLayer name="Svar4a" color="#009999" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" name="Svar4a" labelType="name" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt4a" name="Svar4a">
                   <matrix>
-                    <Matrix tx="312.15" ty="192.85"/>
+                    <Matrix tx="337" ty="314.35"/>
                   </matrix>
                   <transformationPoint>
                     <Point x="167" y="115.25"/>
@@ -53,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#FF0000" autoNamed="false">
+        <DOMLayer name="Svar3a" color="#FF0000" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -69,7 +53,23 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#669900" autoNamed="false">
+        <DOMLayer name="Svar3b" color="#00FFFF" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt3b" name="Svar3b">
+                  <matrix>
+                    <Matrix tx="797.8" ty="393.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="140.6" y="60.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Svar2a" color="#669900" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -85,7 +85,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#FF4F4F" autoNamed="false">
+        <DOMLayer name="Svar2b" color="#FF4F4F" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -101,11 +101,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1b" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="Svar1b" color="#00FFFF" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b" selected="true">
                   <matrix>
                     <Matrix tx="357.55" ty="174.2"/>
                   </matrix>
@@ -117,11 +117,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1a" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Svar1a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1a" name="Svar1a" selected="true">
                   <matrix>
                     <Matrix tx="248.55" ty="174.2"/>
                   </matrix>
@@ -133,21 +133,21 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer color="#9933CC" autoNamed="false">
+        <DOMLayer color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Stag1" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Stag1" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shighlight1" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Shighlight1" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -185,21 +185,21 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer color="#009999" autoNamed="false">
+        <DOMLayer color="#009999" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Stag2" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Stag2" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shighlight2" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Shighlight2" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -237,21 +237,21 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer color="#FF0000" autoNamed="false">
+        <DOMLayer color="#FF0000" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Stag3" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Stag3" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shighlight3" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Shighlight3" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -289,21 +289,21 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer color="#669900" autoNamed="false">
+        <DOMLayer color="#669900" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Stag4" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Stag4" color="#9933CC" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Shighlight4" color="#FF4FFF" autoNamed="false">
+        <DOMLayer name="Shighlight4" color="#FF4FFF" locked="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -327,7 +327,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer_3" color="#FF800A">
+        <DOMLayer name="Layer_3" color="#FF800A" locked="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements/>

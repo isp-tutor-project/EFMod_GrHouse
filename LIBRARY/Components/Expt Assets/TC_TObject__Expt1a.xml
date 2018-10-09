@@ -6,7 +6,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" name="Svar1a" centerPoint3DX="415.55" centerPoint3DY="154.6">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" name="Svar1a" selected="true" centerPoint3DX="415.55" centerPoint3DY="154.6">
                   <matrix>
                     <Matrix tx="415.55" ty="154.6"/>
                   </matrix>

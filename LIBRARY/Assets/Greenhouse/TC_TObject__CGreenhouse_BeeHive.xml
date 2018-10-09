@@ -1,4 +1,4 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CGreenhouse_BeeHive" itemID="5ba16837-00001ea6" lastModified="1537304631">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CGreenhouse_BeeHive" itemID="5ba16837-00001ea6" lastModified="1539115189">
   <timeline>
     <DOMTimeline name="TC_TObject__CGreenhouse_BeeHive">
       <layers>
@@ -11,7 +11,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="45.95" ty="88"/>
                   </matrix>

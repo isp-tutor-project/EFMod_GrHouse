@@ -1,4 +1,7 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" itemID="5ba1681e-00001ea5" lastModified="1537304606">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" itemID="5ba1681e-00001ea5" lastModified="1539115219">
+  <persistentData>
+    <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
+  </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__CGreenhouse_plantbed_nobeesorflowers">
       <layers>
@@ -11,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="43.9" ty="89.95"/>
                   </matrix>
