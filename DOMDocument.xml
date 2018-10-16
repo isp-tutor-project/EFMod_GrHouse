@@ -26,11 +26,11 @@
           <DOMFolderItem name="Assets/Greenhouse/CPlantingBed Assets" itemID="5abd2724-000002f0"/>
           <DOMFolderItem name="Assets/Harvestassests" itemID="5afdbb68-00000348"/>
           <DOMFolderItem name="Assets/RakeAssets" itemID="5aa159d3-0000028d"/>
-          <DOMFolderItem name="Components" itemID="5b92f814-000020f4"/>
+          <DOMFolderItem name="Components" itemID="5b92f814-000020f4" isExpanded="true"/>
           <DOMFolderItem name="Components/Expt Assets" itemID="5ba94718-000003dd"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
-          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0"/>
+          <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
      </folders>
      <media>
           <DOMBitmapItem name="____componentassets____/TutorModule" itemID="5ad39ecb-000002ce" sourceLastImported="1512163249" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="____componentassets____/TutorModule.png" bitmapDataHRef="M 3 1523818176.dat" frameLeft="140" frameTop="1720" frameRight="780" frameBottom="2360"/>
@@ -133,6 +133,8 @@
           <Include href="Assets/Harvestassests/HandCounting.xml" loadImmediate="false" itemID="5afdbf14-00000b65" lastModified="1513268082"/>
           <Include href="Assets/RakeAssets/Rake.xml" loadImmediate="false" itemID="5a342229-0000009f" lastModified="1513366057"/>
           <Include href="Assets/RakeAssets/rakeindirt.xml" loadImmediate="false" itemID="5a342587-000000b1" lastModified="1513366919"/>
+          <Include href="Assets/TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
+          <Include href="Assets/TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4368-000022f7" lastModified="1538933608"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout.xml" loadImmediate="false" itemID="5ba81883-00002275" lastModified="1537894792"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout1a.xml" loadImmediate="false" itemID="5baa6d8a-00000326" lastModified="1537895818"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout1b.xml" loadImmediate="false" itemID="5baa6e51-0000037c" lastModified="1537896018"/>
@@ -178,8 +180,6 @@
           <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958540-00000de3" lastModified="1537890473"/>
           <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956f09-00000b10" lastModified="1536519945"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
-          <Include href="TC_TObject__ArrowHead.xml" loadImmediate="false" itemID="5bb9152b-00001b54" lastModified="1538856261"/>
-          <Include href="TC_TVirtual__ExptRgn.xml" loadImmediate="false" itemID="5bba4368-000022f7" lastModified="1538933608"/>
      </symbols>
      <timelines>
           <DOMTimeline name="Scene 1">

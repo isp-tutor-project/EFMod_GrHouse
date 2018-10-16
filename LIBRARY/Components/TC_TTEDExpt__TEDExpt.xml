@@ -152,16 +152,10 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-15.45"/>
-                  </matrix>
                   <members>
                     <DOMGroup>
-                      <matrix>
-                        <Matrix tx="10" ty="-15.45"/>
-                      </matrix>
                       <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight1" selected="true">
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight1">
                           <matrix>
                             <Matrix tx="10" ty="80"/>
                           </matrix>
@@ -204,16 +198,10 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-15.45"/>
-                  </matrix>
                   <members>
-                    <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="10" ty="-15.45"/>
-                      </matrix>
+                    <DOMGroup>
                       <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight2" selected="true">
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight2">
                           <matrix>
                             <Matrix tx="10" ty="211.8"/>
                           </matrix>
@@ -223,7 +211,7 @@
                         </DOMSymbolInstance>
                       </members>
                     </DOMGroup>
-                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag2" selected="true">
+                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag2">
                       <matrix>
                         <Matrix a="2.10000610351563" tx="10" ty="211.8"/>
                       </matrix>
@@ -256,16 +244,10 @@
             <DOMFrame index="0" keyMode="9728">
               <elements>
                 <DOMGroup>
-                  <matrix>
-                    <Matrix tx="10" ty="-15.45"/>
-                  </matrix>
                   <members>
-                    <DOMGroup selected="true">
-                      <matrix>
-                        <Matrix tx="10" ty="-15.45"/>
-                      </matrix>
+                    <DOMGroup>
                       <members>
-                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight3" selected="true">
+                        <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__CallOutHighlight" name="Shighlight3">
                           <matrix>
                             <Matrix tx="10" ty="343.6"/>
                           </matrix>
@@ -275,7 +257,7 @@
                         </DOMSymbolInstance>
                       </members>
                     </DOMGroup>
-                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag3" selected="true">
+                    <DOMSymbolInstance libraryItemName="_HTMLControls/TC_THtmlText__CallOutText" name="Stag3">
                       <matrix>
                         <Matrix a="2.10000610351563" tx="10" ty="343.6"/>
                       </matrix>
@@ -338,7 +320,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="TC_TVirtual__ExptRgn" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/TC_TVirtual__ExptRgn">
                   <matrix>
                     <Matrix tx="-1" ty="-0.95"/>
                   </matrix>
