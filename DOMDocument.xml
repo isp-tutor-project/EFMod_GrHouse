@@ -44,7 +44,7 @@
           <Include href="_HTMLControls/TC_THtmlTable__Assets/tablearea.xml" loadImmediate="false" itemID="5b5f40c1-000002dc" lastModified="1533050778"/>
           <Include href="_HTMLControls/TC_THtmlTable__Table1.xml" loadImmediate="false" itemID="5b5f91bf-00000347" lastModified="1534019420"/>
           <Include href="_HTMLControls/TC_THtmlText__Assets/TextArea.xml" loadImmediate="false" itemID="5b59ef22-00000313" lastModified="1533575923"/>
-          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1538856249"/>
+          <Include href="_HTMLControls/TC_THtmlText__CallOutText.xml" loadImmediate="false" itemID="5bb8f667-00001782" lastModified="1540327331"/>
           <Include href="_HTMLControls/TC_THtmlText__Text1.xml" loadImmediate="false" itemID="5b5f91c5-00000348" lastModified="1533575928"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/contentFrame.xml" loadImmediate="false" itemID="5b8db279-000005f6" lastModified="1536012921"/>
           <Include href="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets/playButtonTop.xml" loadImmediate="false" itemID="5b9e99fb-00000b68" lastModified="1537120902"/>
@@ -144,7 +144,7 @@
           <Include href="Components/Expt Assets/TC_TObject__Callout3b.xml" loadImmediate="false" itemID="5baa7344-00000443" lastModified="1537897293"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout4a.xml" loadImmediate="false" itemID="5baa7654-000004a9" lastModified="1537898068"/>
           <Include href="Components/Expt Assets/TC_TObject__Callout4b.xml" loadImmediate="false" itemID="5baa7750-000004ed" lastModified="1537898320"/>
-          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1538925235"/>
+          <Include href="Components/Expt Assets/TC_TObject__CallOutHighlight.xml" loadImmediate="false" itemID="5bba22b3-00001c05" lastModified="1540327557"/>
           <Include href="Components/Expt Assets/TC_TObject__CalloutLong.xml" loadImmediate="false" itemID="5ba81901-0000227e" lastModified="1537743138"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1a.xml" loadImmediate="false" itemID="5baa6d83-0000030e" lastModified="1538926958"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5baa6e9e-0000038a" lastModified="1538926937"/>
@@ -158,7 +158,7 @@
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956f2c-00000b16" lastModified="1537036589"/>
           <Include href="Components/TC_TObject__Topic.xml" itemID="5b956f39-00000b18" lastModified="1539624548"/>
           <Include href="Components/TC_TObject__Vars.xml" itemID="5b956f34-00000b17" lastModified="1537895141"/>
-          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90ed-00002ebe" lastModified="1539115199"/>
+          <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90ed-00002ebe" lastModified="1540327587"/>
           <Include href="Exports/TL_GrHouse__Movie.xml" loadImmediate="false" itemID="5b956f40-00000b19" lastModified="1536520000"/>
           <Include href="Exports/TL_GrHouse__RQintro1.xml" loadImmediate="false" itemID="5b95875e-00000f3f" lastModified="1536526174"/>
           <Include href="Exports/TL_GrHouse__RQintro2.xml" loadImmediate="false" itemID="5b958772-00000f48" lastModified="1536526194"/>
