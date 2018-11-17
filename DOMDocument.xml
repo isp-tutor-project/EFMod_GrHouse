@@ -9,7 +9,7 @@
           <DOMFolderItem name="_Tutor Global Assets_" itemID="5ad4e635-00000a48"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components" itemID="5b6f403c-000003c9"/>
           <DOMFolderItem name="_Tutor Global Assets_/NavPanel Components/TC_TButton__Button Assets" itemID="5b68a267-00000548"/>
-          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e"/>
+          <DOMFolderItem name="Assets" itemID="5b4258e2-0000035e" isExpanded="true"/>
           <DOMFolderItem name="Assets/AmountofWater Assets" itemID="5abd27f4-000003a0"/>
           <DOMFolderItem name="Assets/AmountofWater Assets/RainWaterAssets" itemID="5ac25b8f-00000b02"/>
           <DOMFolderItem name="Assets/AmountofWater Assets/TapWaterAssets" itemID="5ac25baf-00000b07"/>
@@ -18,16 +18,16 @@
           <DOMFolderItem name="Assets/CGreenHouse Assets" itemID="5a1c85db-0000046d" isExpanded="true"/>
           <DOMFolderItem name="Assets/CGreenHouse Assets/CPlantingBed Assets" itemID="5a1d9ff8-000003f0"/>
           <DOMFolderItem name="Assets/common" itemID="5b92e210-000013a2"/>
-          <DOMFolderItem name="Assets/DyingSunflowers" itemID="5afda40f-00000514"/>
-          <DOMFolderItem name="Assets/FertilizerVariable Assets" itemID="5abd27e4-0000039f"/>
+          <DOMFolderItem name="Assets/DyingSunflowers" itemID="5afda40f-00000514" isExpanded="true"/>
+          <DOMFolderItem name="Assets/FertilizerVariable Assets" itemID="5abd27e4-0000039f" isExpanded="true"/>
           <DOMFolderItem name="Assets/Greenhouse" itemID="5abd2699-00000231"/>
           <DOMFolderItem name="Assets/Greenhouse/CDO_BeeHive Assets" itemID="5a1db802-000004ea"/>
           <DOMFolderItem name="Assets/Greenhouse/CGlass Assets" itemID="5a1d9ed3-000003c0"/>
           <DOMFolderItem name="Assets/Greenhouse/CPlantingBed Assets" itemID="5abd2724-000002f0"/>
-          <DOMFolderItem name="Assets/Harvestassests" itemID="5afdbb68-00000348"/>
+          <DOMFolderItem name="Assets/Harvestassests" itemID="5afdbb68-00000348" isExpanded="true"/>
           <DOMFolderItem name="Assets/RakeAssets" itemID="5aa159d3-0000028d"/>
           <DOMFolderItem name="Components" itemID="5b92f814-000020f4" isExpanded="true"/>
-          <DOMFolderItem name="Components/Expt Assets" itemID="5ba94718-000003dd"/>
+          <DOMFolderItem name="Components/Expt Assets" itemID="5ba94718-000003dd" isExpanded="true"/>
           <DOMFolderItem name="Exports" itemID="5b60aa1c-0000045f"/>
           <DOMFolderItem name="Imports" itemID="5b92a427-00000246"/>
           <DOMFolderItem name="Scenes" itemID="5b40f2ba-000002e0" isExpanded="true"/>
@@ -81,7 +81,7 @@
           <Include href="Assets/CCalendarTime Assets/Maytext.xml" loadImmediate="false" itemID="5afdbf13-000004e0" lastModified="1528211198"/>
           <Include href="Assets/CCalendarTime Assets/SeptemberHeaderText.xml" loadImmediate="false" itemID="5ac259b8-00000a2e" lastModified="1522686392"/>
           <Include href="Assets/CCalendarTime Assets/SeptemberText.xml" loadImmediate="false" itemID="5afdbf14-00000b2e" lastModified="1528211240"/>
-          <Include href="Assets/CGreenHouse Assets/CGreenhouse_ALL.xml" loadImmediate="false" itemID="5afd96bd-00000483" lastModified="1526578964"/>
+          <Include href="Assets/CGreenHouse Assets/CGreenhouse_ALL.xml" loadImmediate="false" itemID="5afd96bd-00000483" lastModified="1542421057"/>
           <Include href="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers.xml" loadImmediate="false" itemID="5afdbf16-00000dd9" lastModified="1513364461"/>
           <Include href="Assets/CGreenHouse Assets/CPlantingBed Assets/Dirt.xml" loadImmediate="false" itemID="5a1da932-000004b2" lastModified="1511893298"/>
           <Include href="Assets/CGreenHouse Assets/CPlantingBed Assets/PlantingBox.xml" loadImmediate="false" itemID="5a1da93a-000004b4" lastModified="1511893306"/>
@@ -99,8 +99,8 @@
           <Include href="Assets/DyingSunflowers/sunflowerpetal.xml" loadImmediate="false" itemID="5a32de19-00000a2b" lastModified="1513283097"/>
           <Include href="Assets/FertilizerVariable Assets/Nofertilizersign.xml" loadImmediate="false" itemID="5abd2dbf-0000056e" lastModified="1522347455"/>
           <Include href="Assets/FertilizerVariable Assets/Redflower.xml" loadImmediate="false" itemID="5afdbf16-00000df1" lastModified="1520525479"/>
-          <Include href="Assets/FertilizerVariable Assets/TC_TObject__CNoFertilizer.xml" loadImmediate="false" itemID="5ba16898-00001eaa" lastModified="1537304728"/>
-          <Include href="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer.xml" loadImmediate="false" itemID="5ba168b3-00001eab" lastModified="1537304755"/>
+          <Include href="Assets/FertilizerVariable Assets/TC_TObject__CNoFertilizer.xml" loadImmediate="false" itemID="5ba16898-00001eaa" lastModified="1542421032"/>
+          <Include href="Assets/FertilizerVariable Assets/TC_TObject__WonderGrowFertilizer.xml" loadImmediate="false" itemID="5ba168b3-00001eab" lastModified="1542421013"/>
           <Include href="Assets/Greenhouse/beeswarm.xml" loadImmediate="false" itemID="5addf536-0000042b" lastModified="1524495670"/>
           <Include href="Assets/Greenhouse/BeeswarmMoving.xml" loadImmediate="false" itemID="5addf59d-00000435" lastModified="1524495773"/>
           <Include href="Assets/Greenhouse/CDO_BeeHive.xml" loadImmediate="false" itemID="5a1db7f8-000004e9" lastModified="1511900424"/>
@@ -150,14 +150,14 @@
           <Include href="Components/Expt Assets/TC_TObject__Expt1b.xml" loadImmediate="false" itemID="5baa6e9e-0000038a" lastModified="1538926937"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt2a.xml" loadImmediate="false" itemID="5baa71a1-00000410" lastModified="1538927004"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt2b.xml" loadImmediate="false" itemID="5baa7085-000003d1" lastModified="1538927195"/>
-          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5baa7499-00000485" lastModified="1538927023"/>
+          <Include href="Components/Expt Assets/TC_TObject__Expt3a.xml" loadImmediate="false" itemID="5baa7499-00000485" lastModified="1542421068"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt3b.xml" loadImmediate="false" itemID="5baa748a-00000483" lastModified="1538927064"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4a.xml" loadImmediate="false" itemID="5baa768d-000004b7" lastModified="1538927222"/>
           <Include href="Components/Expt Assets/TC_TObject__Expt4b.xml" loadImmediate="false" itemID="5bac2182-000002b1" lastModified="1538926980"/>
           <Include href="Components/Expt Assets/TC_TObject__Highlight.xml" loadImmediate="false" itemID="5ba91b96-00000878" lastModified="1537809302"/>
           <Include href="Components/TC_TObject__Movie.xml" itemID="5b956f2c-00000b16" lastModified="1537036589"/>
-          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956f39-00000b18" lastModified="1539624548"/>
-          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956f34-00000b17" lastModified="1537895141"/>
+          <Include href="Components/TC_TObject__Topic.xml" itemID="5b956f39-00000b18" lastModified="1542421118"/>
+          <Include href="Components/TC_TObject__Vars.xml" itemID="5b956f34-00000b17" lastModified="1542421102"/>
           <Include href="Components/TC_TTEDExpt__TEDExpt.xml" itemID="5bbb90ed-00002ebe" lastModified="1540327587"/>
           <Include href="Exports/TL_GrHouse__Movie.xml" loadImmediate="false" itemID="5b956f40-00000b19" lastModified="1536520000"/>
           <Include href="Exports/TL_GrHouse__RQintro1.xml" loadImmediate="false" itemID="5b95875e-00000f3f" lastModified="1536526174"/>
@@ -177,8 +177,8 @@
           <Include href="Scenes/TC_TScene__RQintro4.xml" itemID="5ba50eae-000003c9" lastModified="1537720756"/>
           <Include href="Scenes/TC_TScene__RQintro5.xml" itemID="5ba50eb3-000003ca" lastModified="1537543888"/>
           <Include href="Scenes/TC_TScene__RQmaterials.xml" itemID="5b956f00-00000b0f" lastModified="1537047765"/>
-          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958540-00000de3" lastModified="1537890473"/>
-          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956f09-00000b10" lastModified="1536519945"/>
+          <Include href="Scenes/TC_TScene__RQmovie.xml" itemID="5b958540-00000de3" lastModified="1542421125"/>
+          <Include href="Scenes/TC_TScene__RQvariables.xml" loadImmediate="false" itemID="5b956f09-00000b10" lastModified="1542421121"/>
           <Include href="Scenes/TC_TScene__Template.xml" loadImmediate="false" itemID="5b6f468c-000004bf" lastModified="1536516033"/>
      </symbols>
      <timelines>

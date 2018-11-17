@@ -105,7 +105,7 @@
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b" selected="true">
+                <DOMSymbolInstance libraryItemName="Components/Expt Assets/TC_TObject__Expt1b" name="Svar1b">
                   <matrix>
                     <Matrix tx="357.55" ty="174.2"/>
                   </matrix>
