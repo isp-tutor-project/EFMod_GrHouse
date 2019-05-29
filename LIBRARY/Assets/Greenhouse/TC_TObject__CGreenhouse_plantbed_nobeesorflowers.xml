@@ -14,7 +14,7 @@
                     <Point/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" cacheAsBitmap="true">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" selected="true" cacheAsBitmap="true">
                   <matrix>
                     <Matrix tx="43.9" ty="89.95"/>
                   </matrix>

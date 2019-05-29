@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CGreenHouse Assets/CPlantingBed Assets/Tween 2" itemID="5cbf7e85-00000a7f" symbolType="graphic" lastModified="1556053637">
+  <timeline>
+    <DOMTimeline name="Tween 2">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/RakeAssets/rakeindirt" selected="true" centerPoint3DX="10.8" centerPoint3DY="8.85">
+                  <matrix>
+                    <Matrix tx="10.8" ty="8.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Assets/Harvestassests/HandCounting" selected="true" centerPoint3DX="-58.35" centerPoint3DY="-41.4">
+                  <matrix>
+                    <Matrix a="0.788192749023438" b="-0.6929931640625" c="0.787078857421875" d="0.5762939453125" tx="-58.45" ty="-41.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.1" y="0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

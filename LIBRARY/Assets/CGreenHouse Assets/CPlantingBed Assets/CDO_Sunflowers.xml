@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers" itemID="5afdbf16-00000dd9" lastModified="1513364461" lastUniqueIdentifier="12">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers" itemID="5afdbf16-00000dd9" lastModified="1556038206" lastUniqueIdentifier="12">
   <timeline>
     <DOMTimeline name="CDO_Sunflowers">
       <layers>
-        <DOMLayer name="CSingleSunflower11" color="#FF4F4F" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower11" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,7 +18,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower12" color="#00FFFF" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower12" color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -34,7 +34,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower4" color="#FF4F4F" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower4" color="#FF4F4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -50,7 +50,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower8" color="#009999" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower8" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -66,7 +66,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower1" color="#FF800A" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower1" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -82,7 +82,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower6" color="#9933CC" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower6" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -98,7 +98,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower2" color="#FF0000" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower2" color="#FF0000" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -114,7 +114,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower3" color="#669900" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower3" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -130,7 +130,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower5" color="#00FFFF" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower5" color="#00FFFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -146,7 +146,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower7" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower7" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -162,7 +162,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower9" color="#FF0000" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower9" color="#FF0000" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -178,7 +178,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower10" color="#669900" locked="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower10" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

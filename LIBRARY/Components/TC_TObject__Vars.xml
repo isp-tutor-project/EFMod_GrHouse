@@ -1,15 +1,15 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f34-00000b17" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1542421102" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Components/TC_TObject__Vars" itemID="5b956f34-00000b17" linkageExportForAS="true" linkageClassName="TC_TObject__Vars" lastModified="1556064373" lastUniqueIdentifier="8">
   <persistentData>
     <PD n="CreateJSToolkit_timelinedata" v="version&#xA;0.1&#xA;loop&#xA;true"/>
   </persistentData>
   <timeline>
     <DOMTimeline name="TC_TObject__Vars">
       <layers>
-        <DOMLayer name="Svar1a" color="#FF4FFF" current="true" isSelected="true" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1a" color="#FF4FFF" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" name="Svar1a" selected="true">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CGreenhouse_plantbed_nobeesorflowers" name="Svar1a">
                   <matrix>
                     <Matrix tx="274.85" ty="272.25"/>
                   </matrix>
@@ -21,7 +21,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar1b" color="#009999" autoNamed="false" visible="false">
+        <DOMLayer name="Svar1b" color="#009999" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -37,7 +37,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2b" color="#FF0000" autoNamed="false" visible="false">
+        <DOMLayer name="Svar2b" color="#FF0000" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -53,7 +53,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar2a" color="#669900" autoNamed="false" visible="false">
+        <DOMLayer name="Svar2a" color="#669900" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -69,7 +69,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar3a" color="#9933CC" autoNamed="false" visible="false">
+        <DOMLayer name="Svar3a" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -101,7 +101,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4a" color="#9933CC" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4a" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -117,7 +117,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false" visible="false">
+        <DOMLayer name="Svar4b" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>

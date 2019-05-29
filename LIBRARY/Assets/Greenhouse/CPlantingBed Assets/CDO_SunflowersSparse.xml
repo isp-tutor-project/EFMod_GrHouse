@@ -2,7 +2,7 @@
   <timeline>
     <DOMTimeline name="CDO_SunflowersSparse">
       <layers>
-        <DOMLayer name="CSingleSunflower11" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="CSingleSunflower11" color="#FF4F4F" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="CSingleSunflower12" color="#00FFFF" autoNamed="false">
+        <DOMLayer name="CSingleSunflower12" color="#00FFFF" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse">
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/CPlantingBed Assets/SunflowerSparse" selected="true">
                   <matrix>
                     <Matrix tx="-59.1" ty="15.7"/>
                   </matrix>

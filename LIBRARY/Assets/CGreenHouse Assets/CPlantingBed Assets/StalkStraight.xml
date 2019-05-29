@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/CGreenHouse Assets/CPlantingBed Assets/StalkStraight" itemID="5cbf87e3-00000dc9" lastModified="1556056278">
+  <timeline>
+    <DOMTimeline name="StalkStraight">
+      <layers>
+        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StalkStraight_Vector" cacheAsBitmap="true">
+                  <transformationPoint>
+                    <Point x="12.75" y="20.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CPlantingBed" itemID="5ba16880-00001ea9" lastModified="1537304704" lastUniqueIdentifier="8">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/Greenhouse/TC_TObject__CPlantingBed" itemID="5ba16880-00001ea9" lastModified="1556037778" lastUniqueIdentifier="8">
   <timeline>
     <DOMTimeline name="TC_TObject__CPlantingBed">
       <layers>
-        <DOMLayer name="SunflowersSparse" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="SunflowersSparse" color="#9933CC" autoNamed="false" visible="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -18,11 +18,11 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Sunflowers" color="#9933CC" autoNamed="false">
+        <DOMLayer name="Sunflowers" color="#9933CC" current="true" isSelected="true" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers" name="Ssunflowers">
+                <DOMSymbolInstance libraryItemName="Assets/CGreenHouse Assets/CPlantingBed Assets/CDO_Sunflowers" name="Ssunflowers" selected="true">
                   <matrix>
                     <Matrix tx="-4.15" ty="-11.45"/>
                   </matrix>

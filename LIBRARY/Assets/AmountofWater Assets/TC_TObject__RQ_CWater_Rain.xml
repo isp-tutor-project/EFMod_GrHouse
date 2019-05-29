@@ -1,19 +1,34 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/AmountofWater Assets/TC_TObject__RQ_CWater_Rain" itemID="5ba168cc-00001eac" lastModified="1537304780">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Assets/AmountofWater Assets/TC_TObject__RQ_CWater_Rain" itemID="5ba168cc-00001eac" lastModified="1556058236">
   <timeline>
     <DOMTimeline name="TC_TObject__RQ_CWater_Rain">
       <layers>
-        <DOMLayer name="Layer_1" color="#00FFFF" current="true" isSelected="true">
+        <DOMLayer name="Layer_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="WateringCan" color="#9933CC" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" centerPoint3DX="-91.4" centerPoint3DY="-35.3">
+                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/WateringCan" centerPoint3DX="86.45" centerPoint3DY="116.3">
                   <matrix>
-                    <Matrix a="2.04855346679688" d="2.04855346679688" tx="-91.4" ty="-35.35"/>
+                    <Matrix a="1.1563720703125" d="1.1563720703125" tx="86.45" ty="116.3"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="0.05"/>
+                    <Point x="-0.25"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="RainCloud" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
                 <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/RainWaterAssets/RainCloud" centerPoint3DX="128.4" centerPoint3DY="-89.55">
                   <matrix>
                     <Matrix a="1.35726928710938" d="1.35726928710938" tx="128.4" ty="-89.55"/>
@@ -22,12 +37,20 @@
                     <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Assets/AmountofWater Assets/WateringCan" centerPoint3DX="86.45" centerPoint3DY="116.3">
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="TC_TObject__CPlantingBed" color="#FF4FFF" current="true" isSelected="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Assets/Greenhouse/TC_TObject__CPlantingBed" selected="true" centerPoint3DX="-91.4" centerPoint3DY="-35.3">
                   <matrix>
-                    <Matrix a="1.1563720703125" d="1.1563720703125" tx="86.45" ty="116.3"/>
+                    <Matrix a="2.04855346679688" d="2.04855346679688" tx="-91.4" ty="-35.35"/>
                   </matrix>
                   <transformationPoint>
-                    <Point x="-0.25"/>
+                    <Point x="0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
               </elements>

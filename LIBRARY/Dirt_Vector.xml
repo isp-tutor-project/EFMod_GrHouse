@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Dirt_Vector" itemID="5cbf8858-00000dcc" lastModified="1556057742">
+  <timeline>
+    <DOMTimeline name="Dirt_Vector">
+      <layers>
+        <DOMLayer name="Layer_3" color="#FF800A" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#8C6640"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#454545"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!-30 482[23 574 116 659!116 659[303 830 502 800!502 800|3335 290!3335 290[3298 225 3222 153!3222 153[3069 11 2872 -20!2872 -20/-30 482"/>
+                    <Edge cubics="!-30 482(;-30,482 183,848 502,800q-30 482Q23 574q116 659Q303 830q502 800);"/>
+                    <Edge cubics="!502 800(;502,800 3335,290 3335,290q502 800 3335 290);"/>
+                    <Edge cubics="!3335 290(;3335,290 3187,29 2872,-20q3335 290Q3298 225q3222 153Q3069 11q2872 -20);"/>
+                    <Edge cubics="!2872 -20(;2872,-20 -30,482 -30,482q2872 -20 -30 482);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
